@@ -56,8 +56,6 @@ Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut:
 🔗 LinkedIn (Link postingan):
 
 ## 🧰 Tools yang Digunakan
-Python 🐍
-
 Pandas 📊
 
 Google Colab 📓
