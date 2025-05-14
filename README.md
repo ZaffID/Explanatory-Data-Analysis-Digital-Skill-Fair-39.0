@@ -20,10 +20,6 @@ Mendeteksi dan menangani missing values
 
 Mengidentifikasi dan menghapus data duplikat
 
-Menyusun ringkasan statistik dasar (mean, median, min, max, dll.)
-
-Mendapatkan insight awal dari data tanpa menggunakan visualisasi
-
 ## 📊 Insight Utama
 Berdasarkan hasil eksplorasi data, ditemukan beberapa pola menarik:
 
