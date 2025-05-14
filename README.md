@@ -50,7 +50,7 @@ Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut:
 
 📧 Email: dimasfazajulianputra@gmail.com
 
-🔗 LinkedIn (Link postingan):
+🔗 LinkedIn (Link postingan): https://www.linkedin.com/posts/dimas-faza-julian-putra-9b3509333_explanatory-data-analysis-world-happiness-activity-7328348723271421952-inOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPnLlcBtNJnMP2GkU_y5irVqM4ulW-7gK4
 
 ## 🧰 Tools yang Digunakan
 Pandas 📊
